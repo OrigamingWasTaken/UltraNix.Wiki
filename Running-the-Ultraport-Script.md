@@ -32,6 +32,12 @@ Once it's done, the terminal should give you a command to copy paste into your S
 
 `/home/$USER/.steam/steam/steamapps/common/ULTRAKILL/ULTRAKILL.x86_64; echo %command%`
 
+Alternatively, you can run it directly from the terminal:
+
+`$ ./ULTRAKILL.x86_64`
+
+Note: If it crashes one or two times starting up, that's okay. Unity 2019 sometimes aborts on startup.
+
 ## MacOS
 
 Start by downloading [Darwin.tar.gz](https://github.com/coatlessali/UltraNix/blob/main/Darwin.tar.gz), and [ultraport.sh](https://github.com/coatlessali/UltraNix/blob/main/ultraport.sh).
@@ -55,4 +61,4 @@ and run it.
 
 `$ ./ultraport.sh`
 
-After it finishes, open your ULTRAKILL folder in Finder. Right click a new app that will have appeared, named `ULTRAKILL` (though the `.app` part will be hidden), and click "Open". MacOS will prompt you to let you know the app is unverified, but it is safe to run.
+After it finishes, open your ULTRAKILL folder in Finder. Right click a new app that will have appeared, named `ULTRAKILL` (though the `.app` part will be hidden), and click "Open". MacOS will prompt you to let you know the app is unverified, but it is safe to run. **From now on, this is how you will have to open the game.**
