@@ -1,5 +1,6 @@
 ## All Platforms
 * All limitations of GLCore are present, such as disabled silhouettes. [\*](https://github.com/coatlessali/GLCoreScissors)
+* Pressing/Releasing any mouse button will cause your POV to rotate *one singular unit* in whichever direction it moved last.
 
 ## Linux
 * Scrolling in menus is very slow/inverted.
