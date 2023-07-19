@@ -1,6 +1,6 @@
 ## All Platforms
 * All limitations of GLCore are present, such as disabled silhouettes. [\*](https://github.com/coatlessali/GLCoreScissors)
-* Pressing/Releasing any mouse button will cause your POV to rotate *one singular unit* in whichever direction it moved last.
+* There is a **crippling mouse bug** that causes any click/release input to repeat the last axis movement (including mouse movement and scroll wheel) by one unit. This means if you scroll to change weapons and don't move the mouse before clicking, you will change weapons again upon trying to fire.
 
 ## Linux
 * Scrolling in menus is very slow/inverted.
