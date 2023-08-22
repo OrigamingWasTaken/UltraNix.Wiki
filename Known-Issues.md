@@ -7,6 +7,9 @@
 * Multiple in-game videos do not play, as the Linux UnityPlayer does not support mp4 files. [\*](https://github.com/coatlessali/UltraNixVideoFix)
 * Game may randomly abort during startup.
 * Usage of gamescope and alt-tabbing may cause input problems.
+* `-force-wayland` doesn't work.
+
+For Wayland, you can `LD_PRELOAD=/usr/lib/libSDL2.so SDL_VIDEODRIVER=wayland` at the beginning of your Steam launch options. This will load a newer version of SDL2 that will allow you to run the game with Wayland without a hang.
 
 ## MacOS
 * Despite MP4 files being supported, none of the in-game movies play and show as completely transparent. [\*](https://github.com/coatlessali/UltraNixVideoFix)
