@@ -16,6 +16,9 @@ After using it for a little bit, I've determined that it's a bit of a cluttered 
 
 **If you choose to use r2modman, I will not provide any support. You are free to do so, but you are on your own.**
 
+# NOTE: 
+The below list is unmaintained. Information is **not** up to date.
+
 ## Compatibility List
 
 There are 5 categories:
