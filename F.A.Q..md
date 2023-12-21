@@ -5,18 +5,30 @@ No. This is a script that downloads a dummy UnityPlayer, and moves the game file
 Not officially. Please don't report any bugs occurring with these ports to any official sources, unless you can reproduce them on the Windows build. I will provide as much support as I can, but don't be surprised if the devs add a Windows-only library, or remove OpenGLCore, and the game stops working permanently. Feel free to open issues in the GitHub repository, or hit me (coatlessali) up in the ULTRAKILL or Newblood Discord servers.
 
 #### What if the ULTRAKILL team members take issue with this project?
-At their request, **I will take down this repository/all associated plugins, no questions asked.**
-
-#### I can use Proton instead, should I?
-Yes. These ports are to be treated as a curiosity, and only for those who do not meet the system requirements for Proton, or take issue with it.
+At their request, **I will take down this repository/all associated plugins, no questions asked.** Though judging by the fact that they went as far as to convert the MP4 files in the game to WEBMs for (presumably) better WINE compatibility, if I had to guess, I'd say they probably don't mind.
 
 #### Where do I get ULTRAKILL?
 You can purchase it via Steam in a web browser, and download it using the methods documented [here](https://github.com/coatlessali/UltraNix/wiki/Downloading-ULTRAKILL-and-Plugins).
 
-**Support will not be provided for pirate copies, you are on your own.**
+#### I downloaded ULTRAKILL from GameUnlocked9000.gov, can you help me set it up?
+**No.** Go buy it.
+
+#### Why can't you ship the plugins for Steam/Discord?
+They are copyrighted material that I cannot freely distribute. I know it's inconvenient, but I'd rather not get letters from either company's legal team.
+
+#### What the heck does "upstream" mean?
+In this case, I am using "upstream" to refer to the developers of ULTRAKILL, as well as the private project files for the game that they have. For example, an issue that can "only be fixed upstream" is an issue that is up to the developers of the game to address, as it would either be impossible/impractical to fix with a mod. This repo and any mods associated with it, would be considered "downstream".
+
+#### Does this yield better performance?
+It depends. I initially thought that the CPU overhead of running OpenGL would be far greater than the overhead of running WINE/Proton, but it seems for Unity in specific, I was wrong.
+
+If your CPU is the bottleneck, this will improve performance. If your GPU is the bottleneck, this will either do nothing, or possibly even hurt your performance.
+
+#### I can use Proton instead, should I?
+It depends. If you don't mind the work necessary to get this working and can live with the caveats, it can be worth your time, especially if you're in a situation where it could improve performance (see above).
 
 #### Are mods supported?
-Short answer? Sort of. Mod support page coming soon.
+Not 100%. You need to use the version of BepInEx for your Operating System, and not every mod works due to compatibility issues.
 
-#### I'm having issue xyz, any help?
-Check the [known issues page.](https://github.com/coatlessali/UltraNix/wiki/Known-Issues)
+#### I'm having a problem, any help?
+Check the [known issues page.](https://github.com/coatlessali/UltraNix/wiki/Known-Issues), or the issue tracker.
