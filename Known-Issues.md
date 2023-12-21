@@ -6,10 +6,9 @@
 * Scrolling in menus is very slow/inverted.
 * Game may randomly abort during startup.
 * Usage of gamescope and alt-tabbing may cause input problems.
-* `-force-wayland` doesn't work.
-
-For Wayland, you can `LD_PRELOAD=/usr/lib/libSDL2.so SDL_VIDEODRIVER=wayland` at the beginning of your Steam launch options. This will load a newer version of SDL2 that will allow you to run the game with Wayland without a hang.
+* `-force-wayland` doesn't work without using `LD_PRELOAD` to load your system's SDL2 library. This option also doesn't work with the `./run_bepinex.sh` script, so replace it with the env var `SDL_VIDEODRIVER=wayland`.
 
 ## MacOS
-* Using mouse tweaking software such as [Mos](https://mos.caldis.me/) can cause scrolling issues, especially if smooth scrolling is turned on.
-* The game will crash if certain folders aren't present in `ULTRAKILL.app`, such as `Preferences`, `CyberGrind`, and `Saves`.
+* Using mouse tweaking software can cause scrolling issues, especially if smooth scrolling is turned on. I'm hesitant to say this is an issue with the game, but I'd rather put it here to be safe.
+* The game will crash if certain folders aren't present in `ULTRAKILL.app`, such as `Preferences`, `CyberGrind`, and `Saves`. I believe it is permissions related.
+* For some unexplained reason, the MacOS port might have permissions denied and not be able to run. No idea why, I don't use a Mac.
