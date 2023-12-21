@@ -31,7 +31,7 @@ There are 5 categories:
 ## Out of the Box
 NOTE: UltrakULL won't receive support properly until the next update releases.
 * [UltraModManager](https://thunderstore.io/c/ultrakill/p/Temperz87/UltraModManager/) by [Temperz87](https://github.com/Temperz87/ultra-mod-manager)
-* [UltraNixVideoFix](https://github.com/coatlessali/UltraNixVideoFix) by [coatlessali](https://github.com/coatlessali)
+* ~~[UltraNixVideoFix](https://github.com/coatlessali/UltraNixVideoFix) by [coatlessali](https://github.com/coatlessali)~~ FIXED UPSTREAM
 * [UltrakULL](https://github.com/ClearwaterUK/UltrakULL) by [ClearwaterUK](https://github.com/ClearwaterUK)
 * [LowTierSisyphus](https://thunderstore.io/c/ultrakill/p/ImNotSimon/LowTierSisyphus/) by [ImNotSimon](https://github.com/ImNotSimon)
 * [PizzafaceMod](https://thunderstore.io/c/ultrakill/p/Edith/PizzafaceMod/) by [Edith](https://github.com/DrPHDCat)
