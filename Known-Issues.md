@@ -1,6 +1,7 @@
 ## All Platforms
 * All limitations of GLCore are present, such as disabled silhouettes. [\*](https://github.com/coatlessali/GLCoreScissors)
 * There is a **crippling mouse bug** that causes any click/release input to repeat the last axis movement (including mouse movement and scroll wheel) by one unit. This means if you scroll to change weapons and don't move the mouse before clicking, you will change weapons again upon trying to fire.
+* If your OpenGL drivers are faulty, you may run into issues with the camera switching in 4-S.
 
 ## Linux
 * Scrolling in menus is very slow/inverted.
