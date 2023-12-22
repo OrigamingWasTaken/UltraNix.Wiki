@@ -27,7 +27,7 @@ In order for Steamworks integration (for in-game Leaderboards, Steam Rich Presen
 
 ### Steamworks SDK
 
-Start by signing into your Steam account on the [Steamworks Website](https://partner.steamgames.com/). After this, you can go to [this page](https://partner.steamgames.com/downloads/list) to download the Steamworks SDK. Make sure to download version **1.48a**, as this is the version ULTRAKILL uses.
+Start by signing into your Steam account on the [Steamworks Website](https://partner.steamgames.com/). After this, you can go to [this page](https://partner.steamgames.com/downloads/list) to download the Steamworks SDK. Make sure to download version **1.57**, as this is the version ULTRAKILL uses.
 
 After opening up the `.zip` file, navigate to `sdk/redistributable_bin/`. From here:
 
