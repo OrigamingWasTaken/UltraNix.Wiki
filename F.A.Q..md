@@ -20,8 +20,8 @@ Here are the specs for the worst computer (an Elitebook 8460p) that I have manag
 * CPU: Intel Core i5-2520M
 * GPU: AMD Radeon HD 6470M / 1GB GDDR3
 * RAM: 2 GiB DDR3 (WITH NOTHING ELSE OPEN)
-This should net you a minimum of 50 FPS at 960p, even on some of the laggier levels like 4-2/5-3.
-Technically all you really need is an x86_64 processor, a distro using glibc, and OpenGL 3.2 support.
+
+This should net you a minimum of 50 FPS at 960p, even on some of the laggier levels like 4-2/5-3. Technically all you really need is an x86_64 processor, a distro using glibc, and OpenGL 3.2 support.
 
 #### What are the minimum system requirements for MacOS?
 Great question. Not sure.
