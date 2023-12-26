@@ -18,7 +18,7 @@ At their request, **I will take down this repository/all associated plugins, no 
 #### Where do I get ULTRAKILL?
 You can purchase it via Steam in a web browser, and download it using the methods documented [here](https://github.com/coatlessali/UltraNix/wiki/Downloading-ULTRAKILL-and-Plugins).
 
-#### I downloaded ULTRAKILL from GameUnlocked9000.gov, can you help me set it up?
+#### That's too hard, so I downloaded ULTRAKILL from GameUnlocked9000.gov, can you help me set it up?
 **No.** Go buy it.
 
 #### Why can't you ship the plugins for Steam/Discord?
