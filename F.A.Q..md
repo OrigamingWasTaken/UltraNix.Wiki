@@ -15,6 +15,17 @@ Not officially. Please don't report any bugs occurring with these ports to any o
 #### What if the ULTRAKILL team members take issue with this project?
 At their request, **I will take down this repository/all associated plugins, no questions asked.** Though judging by the fact that they went as far as to convert the MP4 files in the game to WEBMs for (presumably) better WINE compatibility, if I had to guess, I'd say they probably don't mind.
 
+#### What are the system requirements for Linux?
+Here are the specs for the worst computer (an Elitebook 8460p) that I have managed to get the game running decently on, under Debian 12 on XFCE:
+* CPU: Intel Core i5-2520M
+* GPU: AMD Radeon HD 6470M / 1GB GDDR3
+* RAM: 2 GiB DDR3 (WITH NOTHING ELSE OPEN)
+This should net you a minimum of 50 FPS at 960p, even on some of the laggier levels like 4-2/5-3.
+Technically all you really need is an x86_64 processor, a distro using glibc, and OpenGL 3.2 support.
+
+#### What are the minimum system requirements for MacOS?
+Great question. Not sure.
+
 #### Where do I get ULTRAKILL?
 You can purchase it via Steam in a web browser, and download it using the methods documented [here](https://github.com/coatlessali/UltraNix/wiki/Downloading-ULTRAKILL-and-Plugins).
 
