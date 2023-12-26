@@ -1,8 +1,16 @@
 #### Is this a recompilation of ULTRAKILL?
-No. This is a script that downloads a dummy UnityPlayer, and moves the game files into their proper place to be run on UNIX-likes.
+No. This is a script that downloads a dummy UnityPlayer, and moves the game files into their proper place to be run on UNIX-likes. It's basically a glorified mod installer.
+
+#### Is this speedrun legal?
+No. This counts as a modification to the game files, which makes it illegal for speedruns.
+
+![Screenshot_20231226-114607_Discord (6)](https://github.com/coatlessali/UltraNix/assets/61166135/732f043c-259f-40f7-a261-6e04b2dd1186)
+
 
 #### Is this supported?
 Not officially. Please don't report any bugs occurring with these ports to any official sources, unless you can reproduce them on the Windows build. I will provide as much support as I can, but don't be surprised if the devs add a Windows-only library, or remove OpenGLCore, and the game stops working permanently. Feel free to open issues in the GitHub repository, or hit me (coatlessali) up in the ULTRAKILL or Newblood Discord servers.
+
+![244906341-86499157-27e0-4c30-bf52-5eb80ff0b064](https://github.com/coatlessali/UltraNix/assets/61166135/4431dfc9-f115-4e56-8fdf-1a34eb1ea24b)
 
 #### What if the ULTRAKILL team members take issue with this project?
 At their request, **I will take down this repository/all associated plugins, no questions asked.** Though judging by the fact that they went as far as to convert the MP4 files in the game to WEBMs for (presumably) better WINE compatibility, if I had to guess, I'd say they probably don't mind.
