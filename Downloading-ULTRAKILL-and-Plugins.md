@@ -45,4 +45,4 @@ After opening up the `.zip` file, navigate to `/lib/x86_64/`, and from there:
 
 ### After Downloading
 
-Now that you have everything you need, move onto Running the Script.
+Now that you have everything you need, move onto [Running the Script](https://github.com/coatlessali/UltraNix/wiki/Running-the-Ultraport-Script).
