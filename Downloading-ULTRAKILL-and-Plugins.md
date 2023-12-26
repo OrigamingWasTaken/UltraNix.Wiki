@@ -17,7 +17,9 @@ When prompted, restart Steam, and the game should be available to download. The 
 
 ### MacOS
 
-As Steam Play isn't available on MacOS, we have to trick the Steam client into downloading it using a file known as an **appmanifest.acf** Start by downloading the [.acf](https://github.com/coatlessali/UltraNix/blob/main/appmanifest_1229490.acf) file included in the GitHub repo. Now, you should move it to `/Users/$USER/Library/Application Support/Steam/steamapps/`, and restart Steam if it's already open.
+As Steam Play isn't available on MacOS, we have to trick the Steam client into downloading it using a file known as an **appmanifest.acf**. 
+
+Start by downloading the [.acf](https://github.com/coatlessali/UltraNix/blob/main/appmanifest_1229490.acf) file included in the GitHub repo. Now, you should move it to `/Users/$USER/Library/Application Support/Steam/steamapps/`, and restart Steam if it's already open.
 
 After relaunching Steam, the game should automatically start downloading. By default, it will download to `/Users/$USER/Application Support/Steam/steamapps/common/`.
 
