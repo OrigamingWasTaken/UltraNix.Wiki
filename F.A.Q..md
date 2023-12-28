@@ -49,5 +49,10 @@ It depends. If you don't mind the work necessary to get this working and can liv
 #### Are mods supported?
 Not 100%. You need to use the version of BepInEx for your Operating System, and not every mod works due to compatibility issues.
 
+#### My OpenGL Drivers Suck / I Don't Have OpenGL. What should I do?
+Use Zink as a workaround. Otherwise, **pray for the Vulkan renderer.**
+
+![20231228_15h47m48s_grim](https://github.com/coatlessali/UltraNix/assets/61166135/d12e4b33-7194-4bae-8a13-729a3afaaa9f)
+
 #### I'm having a problem, any help?
 Check the [known issues page.](https://github.com/coatlessali/UltraNix/wiki/Known-Issues), or the issue tracker.
