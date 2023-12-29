@@ -7,6 +7,7 @@
 * Scrolling in menus is very slow/inverted.
 * Game may randomly abort during startup.
 * Usage of gamescope and alt-tabbing may cause input problems.
+* Having a controller plugged in that the loaded version of SDL2 doesn't recognize can cause severe slowdown, and crashes upon loading any assets.
 * `-force-wayland` doesn't work without using `LD_PRELOAD` to load your system's SDL2 library. This option also doesn't work with the `./run_bepinex.sh` script, so replace it with the env var `SDL_VIDEODRIVER=wayland`.
 
 ## MacOS
