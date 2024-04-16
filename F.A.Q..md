@@ -1,3 +1,6 @@
+#### When will you come back?
+I'm not sure, but I intend to try reviving this project once the game is upgraded to Unity 2022. For now, PRs are open for anyone who wants to contribute.
+
 #### Is this a recompilation of ULTRAKILL?
 No. This is a script that downloads a dummy UnityPlayer, and moves the game files into their proper place to be run on UNIX-likes. It's basically a glorified mod installer.
 
@@ -8,7 +11,7 @@ No. This counts as a modification to the game files, which makes it illegal for 
 
 
 #### Is this supported?
-Not officially. Please don't report any bugs occurring with these ports to any official sources, unless you can reproduce them on the Windows build. I will provide as much support as I can, but don't be surprised if the devs add a Windows-only library, or remove OpenGLCore, and the game stops working permanently. Feel free to open issues in the GitHub repository, or hit me (coatlessali) up in the ULTRAKILL or Newblood Discord servers.
+Not officially. Please don't report any bugs occurring with these ports to any official sources, unless you can reproduce them on the Windows build. I will provide as much support as I can, but don't be surprised if the devs add a Windows-only library, or remove OpenGLCore, and the game stops working permanently. Feel free to open issues in the GitHub repository, ~~or hit me (coatlessali) up in the ULTRAKILL or Newblood Discord servers~~ though I'm no longer providing support for it.
 
 ![244906341-86499157-27e0-4c30-bf52-5eb80ff0b064](https://github.com/coatlessali/UltraNix/assets/61166135/4431dfc9-f115-4e56-8fdf-1a34eb1ea24b)
 
@@ -16,7 +19,7 @@ Not officially. Please don't report any bugs occurring with these ports to any o
 At their request, **I will take down this repository/all associated plugins, no questions asked.** Though judging by the fact that they went as far as to convert the MP4 files in the game to WEBMs for (presumably) better WINE compatibility, if I had to guess, I'd say they probably don't mind.
 
 #### What are the system requirements for Linux?
-Here are the specs for the worst computer (an Elitebook 8460p) that I have managed to get the game running decently on, under Debian 12 on XFCE:
+Here are the specs for the worst computer (an Elitebook 8460p) that I have managed to get the game running well on, under Debian 12 on XFCE:
 * CPU: Intel Core i5-2520M
 * GPU: AMD Radeon HD 6470M / 1GB GDDR3
 * RAM: 2 GiB DDR3 (WITH NOTHING ELSE OPEN)
