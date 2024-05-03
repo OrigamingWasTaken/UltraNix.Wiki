@@ -61,4 +61,7 @@ and run it.
 
 `$ ./ultraport.sh`
 
-After it finishes, open your ULTRAKILL folder in Finder. Right click a new app that will have appeared, named `ULTRAKILL` (though the `.app` part will be hidden), and click "Open". MacOS will prompt you to let you know the app is unverified, but it is safe to run. **From now on, this is how you will have to open the game.**
+After it finishes, open your ULTRAKILL folder in Finder. Right click a new app that will have appeared, named `ULTRAKILL` (though the `.app` part will be hidden), and click "Open". MacOS will prompt you to let you know the app is unverified, but it is safe to run. **If you have downloaded the libsteam_api.dylib file and wish to access Steam features, follow through.**
+
+In order to activate Steam features, you will need to add the game to Steam and launch it from there.
+For that, open Steam and click the button "Add Game" in the left bottom corner. Choose "Add a Non-Steam game" and then in the file picker, select the ULTRAKILL.app application that was just generated from the `ultraport.sh` script. **Now you will need to launch the game from Steam to access the leaderboards, etc...**
